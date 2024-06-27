@@ -1,0 +1,6 @@
+C:\Users\Sergio\Desktop\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNET\CubeXdotNET\bin\Debug\CubeXdotNET.dll
+C:\Users\Sergio\Desktop\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNET\CubeXdotNET\bin\Debug\CubeXdotNET.pdb
+C:\Users\Sergio\Desktop\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNET\CubeXdotNET\obj\Debug\CubeXdotNET.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNET\CubeXdotNET\obj\Debug\CubeXdotNET.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNET\CubeXdotNET\obj\Debug\CubeXdotNET.dll
+C:\Users\Sergio\Desktop\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNET\CubeXdotNET\obj\Debug\CubeXdotNET.pdb

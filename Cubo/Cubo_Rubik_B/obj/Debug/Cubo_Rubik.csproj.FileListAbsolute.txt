@@ -1,0 +1,44 @@
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\bin\Debug\Cubo_Rubik_B.exe.config
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\bin\Debug\Cubo_Rubik_B.exe
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\bin\Debug\Cubo_Rubik_B.pdb
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\bin\Debug\AForge.dll
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\bin\Debug\AForge.Imaging.dll
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\bin\Debug\AForge.Math.dll
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\bin\Debug\AForge.Video.dll
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\bin\Debug\AForge.xml
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\bin\Debug\AForge.Imaging.xml
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\bin\Debug\AForge.Math.xml
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\bin\Debug\AForge.Video.xml
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik.Form1.resources
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik_B.Properties.Resources.resources
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik.csproj.GenerateResource.cache
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik.csproj.CopyComplete
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik_B.exe
+C:\Users\Sergio\Desktop\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik_B.pdb
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\bin\Debug\Cubo_Rubik_B.exe.config
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\bin\Debug\Cubo_Rubik_B.exe
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\bin\Debug\Cubo_Rubik_B.pdb
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\bin\Debug\AForge.dll
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\bin\Debug\AForge.Imaging.dll
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\bin\Debug\AForge.Math.dll
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\bin\Debug\AForge.Video.dll
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\bin\Debug\AForge.xml
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\bin\Debug\AForge.Imaging.xml
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\bin\Debug\AForge.Math.xml
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\bin\Debug\AForge.Video.xml
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik.Form1.resources
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik_B.Properties.Resources.resources
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik.csproj.GenerateResource.cache
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik.csproj.CopyComplete
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik_B.exe
+C:\Users\Sergio\Desktop\6to Semestre\Cubo\Cubo_Rubik_B\obj\Debug\Cubo_Rubik_B.pdb
